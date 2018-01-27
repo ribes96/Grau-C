@@ -1,0 +1,34 @@
+Albert Ribes Marzá
+Práctica 4
+
+1.
+    a)
+        DH: La curva P-256
+        Servidor: La curva P-256
+    b)
+        Está el código en el fichero Ex1
+2.
+    Página: www.youyube.com
+    Punto:
+        04
+            a010af45a2e1485ff7e6a57609792ba4eddcc0f4703d2bfcd114c4fbf1d991b1
+            6fbad6a3f586ad4ccedbcb9fff2792e92da1fb30be3bc5ed645518196f54af4e
+    Punto_x: 0xa010af45a2e1485ff7e6a57609792ba4eddcc0f4703d2bfcd114c4fbf1d991b1
+    Punto_y: 0x6fbad6a3f586ad4ccedbcb9fff2792e92da1fb30be3bc5ed645518196f54af4e
+    Curva: P-256
+    a)
+        DNI: 48039428
+        Clave Pública:
+        (41572645697509603370650838741801196030671529351966163409457438567055721475419 : 66091070041007262566765664961797386066604737877729208829501647757073011274755 : 1)
+
+    b)
+        Clave Pública: (48039428, __________)
+        Clave Privada: __________
+        Existe, pero no la puedo calcular porque porque n != 3 mod 4,
+        y solo hemos aprendido a hacer ese
+3.
+    a)
+        La lista está en: pki.google.com/GIAG2.crl
+        Cantidad de certificados revovados: 4
+    b)
+        Estado del certificado: Activo
